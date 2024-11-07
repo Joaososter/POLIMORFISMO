@@ -28,7 +28,9 @@ Visual Studio Code ou outra IDE de sua preferência.
 🔧 Instalação
 
 Clone o repositório para o seu ambiente local git clone https://github.com/Joaososter/POLIMORFISMO.git
+
 Abra o projeto no VS Code.
+
 Compile e execute as classes no terminal ou usando a extensão de Java no VS Code.
 
 
