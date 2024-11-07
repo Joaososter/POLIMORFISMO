@@ -1,4 +1,4 @@
-Projeto: Sistema de Envio de Email com Hierarquia de Classes
+Sistema de Envio de Email com Hierarquia de Classes
 
 Este projeto é uma aplicação simples em Java que demonstra o uso de programação orientada a objetos (POO) com foco em conceitos como classes, herança, métodos, sobrescrita, e polimorfismo. A aplicação simula o envio de emails personalizados para professores e alunos, utilizando uma saudação específica de acordo com o tipo de pessoa.
 
@@ -22,6 +22,7 @@ Mensagem …
 📋 Pré-requisitos
 
 Java JDK (versão 11 ou superior).
+
 Visual Studio Code ou outra IDE de sua preferência.
 
 
@@ -37,6 +38,7 @@ Compile e execute as classes no terminal ou usando a extensão de Java no VS Cod
 🛠️ Construído com
 
 Java Linguagem de programação usada.
+
 Visual Studio Code (IDE utilizada para o desenvolvimento).
 
 
